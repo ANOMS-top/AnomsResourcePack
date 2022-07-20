@@ -4,7 +4,7 @@
 
 # ANOMS专属材质包
 
-<img src="https://img.shields.io/badge/Minecraft-1.17.x-brightgreen" alt="Minecraft版本：1.17.x"> <img src="https://img.shields.io/badge/Optifine-1.17 OptiFine HD U G9 pre26-orange" alt="Optifine版本：1.17 OptiFine HD U G9 pre26">
+<img src="https://img.shields.io/badge/Minecraft-1.17.x-brightgreen" alt="Minecraft版本：1.17.x"> <img src="https://img.shields.io/badge/Optifine-1.17 OptiFine HD U G9 pre26-orange" alt="Optifine版本：1.17 OptiFine HD U G9 pre27">
 
 
 
