@@ -31,5 +31,5 @@ ANOMS专属材质包是一个1.17的材质包，但理论上来看可以在1.14�
 ## 参与贡献
 
 1.  Fork 本仓库
-4.  新建 Pull Request
+2.  提交 Pull Request
 
