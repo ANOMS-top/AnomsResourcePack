@@ -4,7 +4,7 @@
 
 # ANOMS专属材质包
 
-<img src="https://img.shields.io/badge/Minecraft-1.17.x-brightgreen" alt="Minecraft版本：1.17.x"> <img src="https://img.shields.io/badge/Optifine-1.17 OptiFine HD U G9 pre27-orange" alt="Optifine版本：1.17 OptiFine HD U G9 pre27">
+<a href="https://minecraft.fandom.com/zh/wiki/Java%E7%89%881.17"><img src="https://img.shields.io/badge/Minecraft-1.17.x-brightgreen" alt="Minecraft版本：1.17.x"></a> <a href="http://optifine.net/adloadx?f=preview_OptiFine_1.17_HD_U_G9_pre26.jar"><img src="https://img.shields.io/badge/Optifine-1.17 OptiFine HD U G9 pre26-orange" alt="Optifine版本：1.17 OptiFine HD U G9 pre26"></a>
 
 
 
