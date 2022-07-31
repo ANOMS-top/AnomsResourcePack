@@ -31,5 +31,8 @@ ANOMS专属材质包是一个为ANOMS服务器定制的材质包，内涵诸多�
 ## 参与贡献
 
 1.  Fork 本仓库
-2.  提交 Pull Request
+2.  使用Git克隆到本地
+3.  修改MainPack内容(Modules和Addons请勿修改，作者会定期从资源包里分离出来)
+4.  Push到Fork的仓库
+5.  提交 Pull Request
 
