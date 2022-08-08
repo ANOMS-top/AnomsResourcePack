@@ -1,4 +1,4 @@
-<a href="http://warrenz.gitee.io/anoms/download/#ANOMS%E4%B8%93%E5%B1%9E%E6%9D%90%E8%B4%A8%E5%8C%85"><img src="https://s1.imagehub.cc/images/2022/07/20/ANOMS_gray.png" alt="ANOMS服务器图标" width="500px" /></a>
+<p align="center"><a href="http://warrenz.gitee.io/anoms/download/#ANOMS%E4%B8%93%E5%B1%9E%E6%9D%90%E8%B4%A8%E5%8C%85"><img src="https://s1.imagehub.cc/images/2022/07/20/ANOMS_gray.png" alt="ANOMS服务器图标" width="500px" /></a></p>
 
 
 
