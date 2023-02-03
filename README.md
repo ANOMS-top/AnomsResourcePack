@@ -1,10 +1,10 @@
-<p align="center"><a href="http://warrenz.gitee.io/anoms/download/#ANOMS%E4%B8%93%E5%B1%9E%E6%9D%90%E8%B4%A8%E5%8C%85"><img src="https://s1.imagehub.cc/images/2022/07/20/ANOMS_gray.png" alt="ANOMS服务器图标" width="500px" /></a></p>
+<p align="center"><a href="http://warrenz.gitee.io/anoms/download/#ANOMS%E4%B8%93%E5%B1%9E%E6%9D%90%E8%B4%A8%E5%8C%85"><img src="https://s1.imagehub.cc/images/2023/02/03/baabf53f373cb1df959c89f68f30122c.png" alt="ANOMS服务器图标" width="500px" /></a></p>
 
 
 
 # ANOMS专属材质包
 
-<a href="https://minecraft.fandom.com/zh/wiki/Java%E7%89%881.17"><img src="https://img.shields.io/badge/Minecraft-1.17.x-brightgreen" alt="Minecraft版本：1.17.x"></a> <a href="http://optifine.net/adloadx?f=preview_OptiFine_1.17_HD_U_G9_pre26.jar"><img src="https://img.shields.io/badge/Optifine-1.17 OptiFine HD U G9 pre26-orange" alt="Optifine版本：1.17 OptiFine HD U G9 pre26"></a> <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC--BY--SA--4.0-brightgreen" alt="许可：CC-BY-SA-4.0"></a></a>
+<a href="https://minecraft.fandom.com/zh/wiki/Java%E7%89%881.17"><img src="https://img.shields.io/badge/Minecraft-1.17.x-brightgreen" alt="Minecraft版本：1.17.x"></a> <a href="http://optifine.net/adloadx?f=preview_OptiFine_1.17_HD_U_G9_pre26.jar"><img src="https://img.shields.io/badge/Optifine-1.17 OptiFine HD U G9 pre26-orange" alt="Optifine版本：1.17 OptiFine HD U G9 pre26"></a> <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC--BY--SA--4.0-brightgreen" alt="许可：CC-BY-SA-4.0"></a>
 
 
 
